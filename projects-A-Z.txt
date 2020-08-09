@@ -4,7 +4,7 @@ C
 D
 E
 F
-G
+Gunmetal
 H
 I
 J
@@ -21,6 +21,6 @@ T
 U
 V
 W
-XYZ
+X
 Y
-Z
+Zoon
